@@ -2,6 +2,8 @@
 
 Install `Python.h`
 
+For Visual Studio, refer to [here](https://github.com/Microsoft/python-sample-vs-cpp-extension)
+
 Always prefix with `Py`
 
 `PyObject` type : pointer for data parsing between python and C
